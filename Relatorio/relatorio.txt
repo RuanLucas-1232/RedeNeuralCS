@@ -1,0 +1,8 @@
+
+        RELATÓRIO DE TREINOS GERAL
+        Neurônio: 1\n
+        Peso1: 10,870413443079833\n
+        Peso2: 13,5880168038498\n
+        Baias: -0,9989999999999243\n
+        Erro: 0\n
+        
